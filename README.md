@@ -1,5 +1,5 @@
 # EksiVeri
-A comprehensive Ekşisözlük scraper. Designed for computational social science.
+A comprehensive Ekşisözlük scraper. Designed for computational social science by Dilruba Sultan Haliloğlu and Faruk Balcı
 
 ## Install
 Clone or download the repository and run 
